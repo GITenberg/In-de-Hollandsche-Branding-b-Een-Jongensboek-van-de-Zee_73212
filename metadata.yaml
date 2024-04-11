@@ -1,0 +1,46 @@
+_repo: In-de-Hollandsche-Branding-b-Een-Jongensboek-van-de-Zee_73212
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Das, Pieter
+    alias: Das, P.
+    birthdate: 1881
+    deathdate: 1937
+    gutenberg_agent_id: '56988'
+    url: http://www.gutenberg.org/2009/agents/56988
+creator:
+  author:
+    agent_name: Feith, Jan
+    aliases:
+    - Chris Kras Kzn
+    - Feith, Johannes
+    - Kris Kras
+    - Feith, J.‏ (Jan)
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '7893'
+    url: http://www.gutenberg.org/2009/agents/7893
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jan_Feith
+    - https://nl.wikipedia.org/wiki/Jan_Feith
+description: ''
+gutenberg_issued: '2024-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73212'
+language: nl
+pgterms:marc905: 20200319115417feith
+pgterms:marc906: '1917'
+pgterms:marc907: NL
+production_note: Produced by R.G.P.M. van Giesen
+publication_note: '  $aAmsterdam :$bScheltens & Giltay, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Dutch'
+- !lcsh 'Sea stories, Dutch'
+- !lcc 'PZ'
+- GITenberg
+title: 'In de Hollandsche Branding : $b Een Jongensboek van de Zee'
+url: http://www.gutenberg.org/ebooks/73212
