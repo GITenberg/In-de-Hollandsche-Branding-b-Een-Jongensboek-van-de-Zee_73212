@@ -8,6 +8,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '56988'
     url: http://www.gutenberg.org/2009/agents/56988
+covers:
+- cover_type: archival
+  image_path: 73212-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Feith, Jan
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jan_Feith
     - https://nl.wikipedia.org/wiki/Jan_Feith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73212#In-de-Hollandsche-Branding-b-Een-Jongensboek-van-de-Zee
 gutenberg_issued: '2024-03-20'
 gutenberg_type: Text
 identifiers:
